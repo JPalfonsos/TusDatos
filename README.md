@@ -2,7 +2,7 @@
 
 Esta es la entrega para el rol de data scientist junir en TusDatos.co
 
-Con esta entrega logro exponer modelos de machinelearning orientados a mostrar cómo un comprador de barcos elijiría la cantidad necesaria de personal abordo dependiendo de:
+Con esta entrega logro exponer modelos de machine learning orientados a mostrar cómo un comprador de barcos elijiría la cantidad necesaria de personal abordo dependiendo de:
 - El peso del barco
 - El tamaño en metros
 - La cantidad de pasajeros que necesita
